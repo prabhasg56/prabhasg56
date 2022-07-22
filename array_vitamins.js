@@ -13,7 +13,7 @@ const items = [{
 }, {
     name: 'Raspberry',
     available: false,
-    contains: "Vitamin B, Vitamin A",
+    contains: "Vitamin A, Vitamin B",
 
 }, {
     name: 'Grapes',
@@ -60,17 +60,14 @@ console.log(containVitaminC);
 //3. Get all items containing Vitamin A.
 
 const containVitaminA = items.filter((itemData) => {
-    if (itemData.contains === "Vitamin A") {
+    if (itemData.contains.includes("Vitamin A")) {
         return true;
-    }
-    else if (itemData.contains === ("Vitamin B, Vitamin A")) {
-        return true;
-    }
-    else {
-        return false;
     }
 })
 console.log(containVitaminA);
+
+// 4. Group items based on the Vitamins that they contain in the following format:
+
 
 //5. Sort items based on number of Vitamins they contain.
 
