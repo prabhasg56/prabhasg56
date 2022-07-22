@@ -46,3 +46,13 @@ const items = [{
     }
  })
 console.log(availableItems);
+
+// 2. Get all items containing only Vitamin C.
+
+
+ const containVitaminC=items.filter((itemData)=>{
+    if(itemData.contains==="Vitamin C"){
+        return true;
+    }
+ })
+console.log(containVitaminC);
