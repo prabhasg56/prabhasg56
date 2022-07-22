@@ -68,11 +68,10 @@ console.log(containVitaminA);
 
 // 4. Group items based on the Vitamins that they contain in the following format:
 
-
 //5. Sort items based on number of Vitamins they contain.
 
 const sortItemVitamins = items.sort((currentItem, nextItem) => {
-    if (currentItem.contains.length > nextItem.contains.length) {
+    if (currentItem.contains.split(',').length > nextItem.contains.split(',').length) {
         return 1;
     }
     else {
