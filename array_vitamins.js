@@ -56,3 +56,18 @@ console.log(availableItems);
     }
  })
 console.log(containVitaminC);
+
+//3. Get all items containing Vitamin A.
+
+const containVitaminA=items.filter((itemData)=>{
+    if(itemData.contains==="Vitamin A"){
+        return true;
+    }
+    else if(itemData.contains===("Vitamin B, Vitamin A")){
+        return true;
+    }
+    else{
+        return false;
+    }
+ })
+console.log(containVitaminA);
