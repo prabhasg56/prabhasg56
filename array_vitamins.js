@@ -36,38 +36,50 @@ const items = [{
         and so on for all items and all Vitamins.
     5. Sort items based on number of Vitamins they contain.
 
-*/ 
+*/
 
- //1. Get all items that are available 
+//1. Get all items that are available 
 
- const availableItems=items.filter((itemData)=>{
-    if(itemData.available){
+const availableItems = items.filter((itemData) => {
+    if (itemData.available) {
         return true;
     }
- })
+})
 console.log(availableItems);
 
 // 2. Get all items containing only Vitamin C.
 
 
- const containVitaminC=items.filter((itemData)=>{
-    if(itemData.contains==="Vitamin C"){
+const containVitaminC = items.filter((itemData) => {
+    if (itemData.contains === "Vitamin C") {
         return true;
     }
- })
+})
 console.log(containVitaminC);
 
 //3. Get all items containing Vitamin A.
 
-const containVitaminA=items.filter((itemData)=>{
-    if(itemData.contains==="Vitamin A"){
+const containVitaminA = items.filter((itemData) => {
+    if (itemData.contains === "Vitamin A") {
         return true;
     }
-    else if(itemData.contains===("Vitamin B, Vitamin A")){
+    else if (itemData.contains === ("Vitamin B, Vitamin A")) {
         return true;
     }
-    else{
+    else {
         return false;
     }
- })
+})
 console.log(containVitaminA);
+
+//5. Sort items based on number of Vitamins they contain.
+
+const sortItemVitamins = items.sort((currentItem, nextItem) => {
+    if (currentItem.contains.length > nextItem.contains.length) {
+        return 1;
+    }
+    else {
+        return -1;
+    }
+});
+console.log(sortItemVitamins)
