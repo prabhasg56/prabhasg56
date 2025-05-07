@@ -38,10 +38,9 @@ Feel free to reach out if you’re looking for:
 - 🔹 Someone to join your team and hit the ground running
 - 🔹 A collaborator for your next mobile app idea
 
-📫 **Email**: your.email@example.com  
-🔗 **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-🌐 **Portfolio**: [your-portfolio.com](https://your-portfolio.com)  
-🐙 **GitHub**: [github.com/your-username](https://github.com/your-username)
+📫 **Email**: prabhask856@gmail.com  
+🔗 **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/prabhakar-mandal/)  
+🐙 **GitHub**: [github.com/your-username](https://github.com/prabhasg56)
 
 ---
 
