@@ -3,9 +3,35 @@
 💫 About Me:
 Hey, it's Prabhakar here. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am a Web and Mobile App Developer with 2.6 years of experience building and maintaining responsive web and mobile applications using React.js, Next.js, and React Native.
+<h2 align="center">Hi 👋, I'm a passionate Mobile and Web Developer</h2>
 
-I aspire to learn and grow something new every day in Web and Mobile technologies. I'm keen to employ my knowledge and experience to enhance company profits while adding value to your organization.
+<p align="center">
+  <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" alt="Coder GIF" />
+</p>
+
+---
+
+### 🚀 Key Highlights
+
+- 💼 2+ years of experience in **mobile and web development**
+- 📱 Delivered **4 mobile apps**, including **2 from scratch**
+- 🚀 Improved app **performance by 55%** and **reduced crash rates by 40%**
+- 🔍 Integrated advanced features like:
+  - 🔎 **TypeSense** for powerful search
+  - 📲 **In-app updates** and **deep linking**
+  - 🔔 **Push notifications**
+  - 💳 **Payment gateway integration**
+- ⚙️ Skilled in:
+  - **React Native**, **JavaScript**, **Next.js**, **Redux**
+  - **Firebase** services
+  - Mobile **UI/UX optimization**
+
+---
+
+💬 I’m excited to contribute my skills to innovative teams and help build scalable, performant mobile solutions.
+
+📫 Let’s connect and collaborate!
+
 
 🌐 Socials:
 
