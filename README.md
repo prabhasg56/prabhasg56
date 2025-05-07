@@ -5,10 +5,6 @@ Hey, it's Prabhakar here. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4
 
 <h2 align="center">Hi 👋, I'm a passionate Mobile and Web Developer</h2>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" alt="Coder GIF" />
-</p>
-
 ---
 
 ### 🚀 Key Highlights
