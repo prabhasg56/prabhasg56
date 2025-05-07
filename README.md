@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 Hey, it's Prabhakar here. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
-* I am a Web and Mobile App Developer with experience of 1.5 years in building and maintaining responsive web and Mobile applications using React.js, Next.js, and React Native. 
+* I am a Web and Mobile App Developer with experience of 2.6 years in building and maintaining responsive web and Mobile applications using React.js, Next.js, and React Native. 
 * I aspire to learn and grow something new every day in Web and Mobile technologies and am keen to employ my knowledge and experience to enhance company profits as well as want to add value to your organization.
 
 
