@@ -63,7 +63,7 @@ Feel free to reach out if you’re looking for:
 - 🔹 A collaborator for your next mobile app idea
 
 📫 **Email**: prabhask856@gmail.com  
-🔗 **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/prabhakar-mandal/)  
+🔗 **LinkedIn**: [linkedin.com/in/prabhakar-mandal](https://www.linkedin.com/in/prabhakar-mandal/)  
 🐙 **GitHub**: [github.com/prabhasg56](https://github.com/prabhasg56)
 
 ---
