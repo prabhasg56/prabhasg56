@@ -25,7 +25,7 @@
   - DevOps & Tools: **Git**, **Bitbucket**, **Jira**, **Postman**, **Figma**
   - Additional: **JavaScript (ES6+)**, **TypeScript**, **HTML5**, **CSS3**, **GitHub Actions**
   - Mobile: **Android Studio**, **Hermes**, **Push Notifications**, **In-App Updates**
-  - Testing & Debugging: **Chrome DevTools**, **Reactotron**
+  - Testing & Debugging: **Chrome DevTools**
 
 ---
 
@@ -64,7 +64,7 @@ Feel free to reach out if you’re looking for:
 
 📫 **Email**: prabhask856@gmail.com  
 🔗 **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/prabhakar-mandal/)  
-🐙 **GitHub**: [github.com/your-username](https://github.com/prabhasg56)
+🐙 **GitHub**: [github.com/prabhasg56](https://github.com/prabhasg56)
 
 ---
 
